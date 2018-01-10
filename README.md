@@ -1,2 +1,2 @@
-# Disign
-2018 EDCAN WebSite Disign
+# Design
+2018 EDCAN WebSite Design
