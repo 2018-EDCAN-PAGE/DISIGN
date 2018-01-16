@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. EDCAN Website Text, 전달사항에 관련된 모든 내용은 아래 docs에 정리되어 있습니다.
 
 https://docs.google.com/document/d/1LT_ud7rjky3q3NF2rYilDqtZMK-8UF1h1NmrqIlNqbo/edit?usp=sharing
@@ -28,3 +29,7 @@ Apply 페이지
 작은 글씨 - 나눔바른고딕 Light 18pt
 파일 이름 - 나눔바른고딕 Light 18pt Opacity 30% 밑줄
 버튼 안에 있는 한글 - 나눔바른고딕 Bold 24pt
+=======
+# Design
+2018 EDCAN WebSite Design
+>>>>>>> a4e20460e737020426790474d41e06f312af2c9e
